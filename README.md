@@ -5,6 +5,7 @@
 - git commit: to commit the edition added to the index
 	- git commit -m "message"
 - git push: to reflect the commit in the local repository to remote
+	- git push "remote repository(=origin) branch-name"
 
 ## How git works
 
